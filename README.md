@@ -1,16 +1,15 @@
-### Hi there 👋
+### A Little About Me
 
-<!--
-**bblease/bblease** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ I'm a full time researcher at MIT Lincoln Laboratory building full stack applications and software prototypes from the ground up in:
 
-Here are some ideas to get you started:
+- `Python` `Fast API`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `TypeScript` `React` `Svelte`
+
+- `MongoDB` `Postgres`
+
+- `Docker`
+
+Some areas I'm interested in and occasionally dabble in include:
+
+`Machine learning` `web3`
